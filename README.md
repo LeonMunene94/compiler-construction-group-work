@@ -8,6 +8,3 @@
 | 103023 | Mbai Njeke Silver |
 |        | Latifah |
 
-## Description
-
-This repository contains the work completed by the group members for the assigned project.
